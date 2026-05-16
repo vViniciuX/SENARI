@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "EcoSENAI",
-    "slug": "EcoSENAI",
+    "name": "SENARI",
+    "slug": "SENARI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ecosenai",
+    "scheme": "senari",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"

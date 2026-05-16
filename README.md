@@ -1,56 +1,23 @@
-# Welcome to your Expo app 👋
+# Bem-vindo ao projeto **SENARI** 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Isso é um projeto desenvolvido em apoio do **SENAI (Serviço Nacional de Aprendizagem Industrial)** e têm como objetivo de ensinar e conscientizar sobre a sustentabilidade dentro da instituição, incentivando futuros profissionais a desenvolverem práticas responsáveis que contribuam para um ambiente mais sustentável e um futuro melhor para o planeta.
 
-## Get started
+Esse projeto segue o princípio **SENARI**:
 
-1. Install dependencies
+- **🌱 Sustentabilidade**
+  Promover práticas sustentáveis por meio da conscientização, responsabilidade coletiva e incentivo a ações com impacto positivo no ambiente e na comunidade.
+- **📗 Educação Verde**
+  Transformar a plataforma em um ambiente de aprendizado contínuo e colaborativo, incentivando conscientização ambiental e o compartilhamento de conhecimento entre outras pessoas.
+- **🛡️ Neutralidade**
+  Garantir a privacidade, segurança e transparência, mantendo um ambiente ético, equilibrado, gratuito e livre de práticas punitivas e discriminatórias.
+- **♿ Acessibilidade**
+  Assegurar inclusão digital e facilidade de uso, permitindo que pessoas de diferentes públicos, contextos e necessidades possam utilizar a plataforma de forma acessível e intuitiva.
+- **🏆 Reconhecimento Ativo**
+  Valorizar esforço, participação, iniciativas, projetos e boas práticas da comunidade, recompensando dedicação e impacto real.
+- **🤝 Integração**
+  Promover conexão e colaboração entre pessoas, escolas, instituições, empresas e comunidades, incentivando projetos e iniciativas que possam gerar impacto positivo tanto em ambientes coletivos quanto em ações realizadas individualmente, em casa ou no próprio bairro.
 
-   ```bash
-   npm install
-   ```
+## Como incentivamos os usuários e mantemos os ativos? 🤔
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Ao compartilhar ideias, participar de projetos, contribuir com iniciativas sustentáveis ou ajudar a comunidade, os usuários recebem 🍀**EcoPontos**, que podem ser utilizados para obter descontos, brindes e outros reconhecimentos dentro da plataforma.
+Além disso, o aplicativo possui um sistema competitivo baseado em rankings, onde os usuários são classificados pela quantidade total de 🍀 **EcoPontos** conquistados.
