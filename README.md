@@ -1,11 +1,9 @@
 # 🌱 SENARI - Sustentabilidade e Participação Estudantil
 
 ## 📱 Visão Geral
-
 SENARI é um aplicativo mobile open-source desenvolvido em React Native + Expo com o objetivo de promover sustentabilidade, conscientização ambiental, gamificação e participação estudantil dentro de instituições de ensino profissional.
 
 Esse projeto segue o princípio **SENARI**:
-
 - **🌱 Sustentabilidade**: Promover práticas sustentáveis por meio da conscientização, responsabilidade coletiva e incentivo a ações com impacto positivo no ambiente e na comunidade.
 - **📗 Educação Verde**: Transformar a plataforma em um ambiente de aprendizado contínuo e colaborativo, incentivando conscientização ambiental e o compartilhamento de conhecimento.
 - **🛡️ Neutralidade**: Garantir a privacidade, segurança e transparência, mantendo um ambiente ético, equilibrado, gratuito e livre de práticas punitivas e discriminatórias.
@@ -14,7 +12,6 @@ Esse projeto segue o princípio **SENARI**:
 - **🤝 Integração**: Promover conexão e colaboração entre pessoas, escolas, instituições, empresas e comunidades.
 
 ## 🎯 Objetivos
-
 - ✅ Promover sustentabilidade e conscientização ambiental
 - 🎮 Gamificação através de EcoPontos, níveis e conquistas
 - 👥 Participação e engajamento estudantil
@@ -84,20 +81,13 @@ Esse projeto segue o princípio **SENARI**:
 - Conquistas desbloqueáveis
 - Ranking individual, por turma e global
 
-### 🛍️ Loja
-- Sistema de resgaste de EcoPontos
-- Itens e categorias
-- Histórico de compras
-
 ## 📦 Instalação
-
 ### Pré-requisitos
 - Node.js >= 18.0.0
 - npm >= 9.0.0
 - Expo CLI: `npm install -g eas-cli`
 
 ### Setup Inicial
-
 ```bash
 # Clone o repositório
 git clone https://github.com/vViniciuX/senari.git
@@ -115,7 +105,6 @@ npm start
 ```
 
 ### Executar em Plataformas
-
 ```bash
 # iOS
 npm run ios
@@ -128,7 +117,6 @@ npm run web
 ```
 
 ## 🏗️ Estrutura do Projeto
-
 ```
 src/
 ├── config/          # Configurações (Firebase, etc)
@@ -144,7 +132,6 @@ src/
 ```
 
 ## 🎨 Design & Temas
-
 - Suporte completo a tema claro e escuro
 - Sistema de cores consistente
 - Tipografia responsiva
@@ -152,14 +139,12 @@ src/
 - Nenhum conteúdo oculto por barra inferior, teclado, notch ou Safe Areas
 
 ## 📱 Compatibilidade
-
 - ✅ iOS 13+
 - ✅ Android 8+
 - ✅ Todos os tamanhos de tela (phone, tablet)
 - ✅ Diferentes orientações de tela
 
 ## 📊 Auditoria & Logs
-
 Todas as ações importantes são registradas:
 - Criação, edição, exclusão de recursos
 - Mudanças de cargo e permissões
@@ -178,21 +163,16 @@ Somos um projeto open-source! Contribuições são bem-vindas.
 5. Abra um Pull Request
 
 ## 📄 Licença
-
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 👥 Autores
-
 - **vViniciuX** - Criador e Mantenedor Principal
 
 ## 🙏 Agradecimentos
-
 - React Native e Expo communities
 - Firebase por infraestrutura confiável
-- Todos os contribuidores
 
 ## 📞 Suporte
-
 Para suporte, abra uma issue no GitHub ou entre em contato através do e-mail do projeto.
 
 ---
