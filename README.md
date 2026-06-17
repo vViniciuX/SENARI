@@ -166,11 +166,8 @@ Somos um projeto open-source! Contribuições são bem-vindas.
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 👥 Autores
-- **vViniciuX** - Criador e Mantenedor Principal
-
-## 🙏 Agradecimentos
-- React Native e Expo communities
-- Firebase por infraestrutura confiável
+- **vViniciuX** - Programdor e Mantenedor Principal
+- **Eliar** - Criador do projeto
 
 ## 📞 Suporte
 Para suporte, abra uma issue no GitHub ou entre em contato através do e-mail do projeto.
